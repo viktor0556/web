@@ -1,0 +1,21 @@
+Weboldal ötlet: Leszokás-követő és Motivációs Platform
+
+Ötlet:
+Készítsünk egy weboldalt, amely segít az embereknek leszokni a káros szokásaiktól, például a pornó nézéstől és a dohányzástól. A weboldal célja az, hogy támogassa a felhasználókat az új és egészséges szokások kialakításában.
+
+Főbb Funkciók:
+
+Leszokási Naptár:
+
+A felhasználók számára lehetőséget ad a naptár használatára, ahol két fő típusú leszokás követhető: a pornó nézés nélküli napok és a dohányzásmentes napok.
+A naptáron keresztül a felhasználók minden nap bepipálhatják, ha aznap nem néztek pornót vagy nem gyújtottak rá.
+Az egyes napokhoz hozzárendelhetünk mérföldköveket, amelyek segítenek követni a változásokat. Például, az első nap után megjeleníthetjük egy kis szöveggel, hogy "Első nap: Nincs változás változást."
+Motivációs Szövegek:
+
+A weboldal szolgáltat motivációs szövegeket, amelyek segítenek a felhasználóknak kitartani. Például, ha valaki már 2 napja nem nézett pornót, akkor megjeleníthetünk szövegeket.
+Dohányzás Nyomonkövetése:
+
+A dohányzás leszokásához a felhasználók regisztrálhatják, mikor gyújtottak rá. Ennek alapján számolhatjuk a dohányzásmentes napokat és elérhetővé tehetjük a különböző mérföldköveket, mint például 1 hét, 2 hét, 3 hét, 1 hónap, fél év.
+Visszaesés Kezelése:
+
+A weboldalon legyen valamilyen támogató mechanizmus vagy közösségi funkció, ahol a felhasználók segíthetnek egymásnak a visszaesés elkerülésében.
